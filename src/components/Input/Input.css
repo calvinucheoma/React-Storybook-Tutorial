@@ -1,0 +1,26 @@
+.input {
+  outline: none;
+  border: 1px solid black;
+  background-color: gray;
+  padding: 12px 32px;
+  border-radius: 20px;
+  font-size: 16px;
+  color: white;
+}
+
+.input::placeholder {
+  color: white;
+  font-size: 16px;
+}
+
+.small {
+  width: 120px;
+}
+
+.medium {
+  width: 240px;
+}
+
+.large {
+  width: 360px;
+}
